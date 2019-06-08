@@ -1,2 +1,2 @@
 # react-example
-Follow along Oreilly' The Complete React Guide
+Follow along Oreilly's The Complete React Guide
